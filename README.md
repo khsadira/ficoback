@@ -1,3 +1,4 @@
-This is a simple hello, world demonstration web server.
+This is a minimal Go backend API service based on: https://cloud.google.com/run/docs/quickstarts/build-and-deploy/deploy-go-service
 
-It serves version information on /version and answers any other request like /name by saying "Hello, name!".
+Server should be run automatically when starting a workspace. Use go run main.go to run manually.
+
